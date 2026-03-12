@@ -58,10 +58,7 @@ Steps:
 3.  Push the project to **GitHub**
 4.  Submit the **GitHub repository link in the Google Form** provided
 
-The Google Form will contain **two submission fields**:
-
-• GitHub Repository Link\
-• Confirmation of Hard Copy Submission
+The Google Form will contain ** submission fields like ** same as your experiment guides.
 
 This submission checks your **practical coding ability**.
 
